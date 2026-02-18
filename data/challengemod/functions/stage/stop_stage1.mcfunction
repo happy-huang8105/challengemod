@@ -1,2 +1,4 @@
-scoreboard players set @s stage 0
-scoreboard players set @s generation_tick 0
+schedule clear challengemod:generations/log
+schedule clear challengemod:generations/sand
+schedule clear challengemod:generations/blaze
+schedule clear challengemod:schedule

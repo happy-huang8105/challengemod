@@ -1,0 +1,1 @@
+execute as @a at @s unless entity @e[type=witherstormmod:wither_storm,distance=..256] run function challengemod:generations/log_generation

@@ -16,7 +16,6 @@ gamerule doWeatherCycle false
 #Set scores
 scoreboard objectives add clear_effect_tick dummy
 scoreboard objectives add generation_tick dummy
-scoreboard objectives add stage dummy
 scoreboard objectives add wither_x dummy
 scoreboard objectives add wither_z dummy
 

@@ -46,6 +46,6 @@
   	  "witherstormmod:upgraded_phasometer",
   	  "witherstormmod:firework_bundle"
   	],
-    "function": "challengemod:stage/start_stage1"
+    "function": "challengemod:schedule"
   }
 }

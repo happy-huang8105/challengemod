@@ -1,0 +1,1 @@
+execute as @e[type=witherstormmod:flaming_wither_skull] at @s if entity @a[distance=..16] run function challengemod:generations/blaze_generation

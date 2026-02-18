@@ -1,0 +1,1 @@
+execute as @e[type=witherstormmod:block_cluster] at @s if entity @a[distance=..16] run summon minecraft:falling_block ~ ~ ~ {BlockState:{Name:"minecraft:sand"}}
