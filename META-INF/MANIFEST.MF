@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Specification-Title: challengemod
+Specification-Vendor: 
+Specification-Version: 1
+Implementation-Title: ChallengeMod
+Implementation-Version: 1.0
+Implementation-Vendor: 
+Implementation-Timestamp: 2026-02-17T21:52:05+0800
+

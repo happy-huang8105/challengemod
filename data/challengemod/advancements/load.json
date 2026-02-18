@@ -1,0 +1,10 @@
+{
+  "criteria": {
+    "start": {
+      "trigger": "minecraft:tick"
+    }
+  },
+  "rewards": {
+    "function": "challengemod:load"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "display": "minecraft:bedrock",
+  "settings": {
+    "layers": [
+      {
+        "block": "minecraft:bedrock",
+        "height": 1
+      }
+    ],
+    "structure_overrides": "witherstormmod:storm_spawn_platform"
+  }
+}
