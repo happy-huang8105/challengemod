@@ -1,6 +1,7 @@
 #Set player
 attribute @s minecraft:generic.max_health base set 1
 gamemode adventure
+give @s minecraft:chorus_fruit
 give @s minecraft:flint{CanDestroy:["minecraft:oak_log","minecraft:sand","minecraft:wither_skeleton_skull","minecraft:wither_skeleton_wall_skull"]} 1
 #Set world
 time set midnight
