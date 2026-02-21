@@ -1,0 +1,12 @@
+execute if data entity @s {Inventory:[{id:"minecraft:iron_boots"}]} run function challengemod:clear/iron_boots
+execute if data entity @s {Inventory:[{id:"minecraft:iron_chestplate"}]} run function challengemod:clear/iron_chestplate
+execute if data entity @s {Inventory:[{id:"minecraft:iron_helmet"}]} run function challengemod:clear/iron_helmet
+execute if data entity @s {Inventory:[{id:"minecraft:iron_hoe"}]} run function challengemod:clear/iron_hoe
+execute if data entity @s {Inventory:[{id:"minecraft:iron_leggings"}]} run function challengemod:clear/iron_leggings
+execute if data entity @s {Inventory:[{id:"minecraft:iron_pickaxe"}]} run function challengemod:clear/iron_pickaxe
+execute if data entity @s {Inventory:[{id:"minecraft:iron_shovel"}]} run function challengemod:clear/iron_shovel
+execute if data entity @s {Inventory:[{id:"minecraft:iron_sword"}]} run function challengemod:clear/iron_sword
+execute if data entity @s {Inventory:[{id:"minecraft:wooden_hoe"}]} run function challengemod:clear/wooden_hoe
+execute if data entity @s {Inventory:[{id:"minecraft:wooden_pickaxe"}]} run function challengemod:clear/wooden_pickaxe
+execute if data entity @s {Inventory:[{id:"minecraft:wooden_shovel"}]} run function challengemod:clear/wooden_shovel
+execute if data entity @s {Inventory:[{id:"minecraft:wooden_sword"}]} run function challengemod:clear/wooden_sword
